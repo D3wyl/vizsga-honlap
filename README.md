@@ -7,7 +7,7 @@ Mester Ildikó
 Szegedi Csaba
 Szederkényi Péter
 
-#Alapkoncepció
+# Alapkoncepció
 A vizsgabizottság által kiadott döntés alapján sportklub weboldalt szerkesztettünk az elvárásoknak megfelelően. 
 Az alapvetés az volt, hogy az időbeli és egyéb (tanulmányi) megkötöttségeket figyelembe véve egy sportra fókuszáljunk. Választásunk a síelésre esett. Miskolcon és Borsod Megyében közismertek a bánkúti síelő sportcentrumok, célunk egy ilyen weboldal megalkotása volt.
 Bánkút könnyen elérhető miskolciak számára, hiszen egy része Miskoc külterüléhez tartozik, más része Nagyvisnyó területe.
