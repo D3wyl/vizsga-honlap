@@ -1,4 +1,4 @@
-# Joutabankut – Projektbemutató <br>
+# Joutabankut – Projektbemutató
 Ebben a dokumentumban szeretnénk bemutatni csapatunkat valamint welboldalunkat és annak készítési módját. 
 Csapatunk neve “Masters” és a következő tagokból áll: 
 
