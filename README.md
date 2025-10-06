@@ -56,9 +56,9 @@ A weboldal alján található lábléc rész minden egyes aloldalon hozzáférhe
 
 ---
 ## Munkamegosztás
-**- Mester Ildikó** volt felelős a weblap átalakításához szükséges média – főleg képanyag – begyűjtéséért illetve a webfelület főoldalának szerkesztéséért. 
-**- Szegedi Csaba** segítségével választottuk ki a legmegfelelőbb sablont az alapötlethez. A weboldal létrehozásában és szerkesztésében kulcsszereplő volt. A főoldal háttéranimációját, a Blog szekciót és azon szekciókat ahol a Wordpress nem kívánt együttműködni a sablonnal ő oldotta meg. 
-**- Szederkényi Péter** volt az ötletgazda. A weboldalon a főoldal, valamint a lábléc szerkesztéséért felelős.
+- **Mester Ildikó** volt felelős a weblap átalakításához szükséges média – főleg képanyag – begyűjtéséért illetve a webfelület főoldalának szerkesztéséért. 
+- **Szegedi Csaba** segítségével választottuk ki a legmegfelelőbb sablont az alapötlethez. A weboldal létrehozásában és szerkesztésében kulcsszereplő volt. A főoldal háttéranimációját, a Blog szekciót és azon szekciókat ahol a Wordpress nem kívánt együttműködni a sablonnal ő oldotta meg. 
+- **Szederkényi Péter **volt az ötletgazda. A weboldalon a főoldal, valamint a lábléc szerkesztéséért felelős.
 
 ---
 ## Felhasznált források: 
