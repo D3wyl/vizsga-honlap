@@ -24,23 +24,39 @@ Ezek a bővítmények:
 
 ---
 ## Weboldal Felépítés
-### Fejlécében 
-a következő aloldalakhoz vezető linkek kaptak helyet: 
+### Fejléc 
+A következő aloldalak kaptak helyet: 
 - **Kezdőoldal**
 - **Blog**
-- **-Névjegy**
-- **Kapcsolat**
 - **Információk**
+- **Névjegy**
+- **Kapcsolatfelvétel**
 - **Felhasználói beállítások** 
 
 ### Kedőoldal
 A korábban említett funkcionalitás-könnyű navigáció jegyében került kialakításra a weboldal. A legfontosabb cél az volt, hogy egy olyan felületet biztosítsunk mely gyors, könnyen átlátható és reszponszív. Ennek megfelelően már a főoldalon bemutatásra kerül a sportcentrum rövid története, az edzők és az óráik.
 
-A Kapcsolatfelvétel oldalon lehetség akár nem regisztrált tagoknak is üzenetet küldeni számunkra. Itt kapott helyet a térkép is mely biztosítja, hogy az érdeklődők megtalálják a sícentrumot. A biztosabb elérhetőség elősegítésenként itt is megtalálhatóak elérhetőségeink: cím, telefon és e-mail. 
+### Blog
+A blogbejegyzésben elérhető az oldal teljes tartalma: _kép, videó és hozzászólási lehetőség is várja a látogatókat, hogy megosszák véleményüket._
+
+### Információk
 Az Információk oldalon pontosan lehet tájékozódni az adott sízezonokról és árakról. Ezenkívül ez az oldal tartalmaz információkat és térképeket a pályákról. Továbbiakban felvilágosítást nyújt az egyes pályák adatairól (szintkülönbség, nehézség, hossz, stb.) 
+
+### Névjegy
+A névjegyben egy rövid ismertető található a sport klubról és egy média elérés
+
+### Kapcsolatfelvétel
+A Kapcsolatfelvétel oldalon lehetség akár nem regisztrált tagoknak is üzenetet küldeni számunkra. Itt kapott helyet a térkép is mely biztosítja, hogy az érdeklődők megtalálják a sícentrumot. A biztosabb elérhetőség elősegítéseként itt is megtalálhatóak elérhetőségeink:
+- cím 
+- telefon
+- e-mail 
+
+### Felhasználói beállítások
 A Felhasználói beállítások alatt módosítható az avatar kép. Ezen az oldalon van lehetőség áttekinteni a kommenteket és postokat is. A felhasználó kialakíthat egy profil leírást – amolyan bemutatkozást – ahol a közösségnek elmondja, amit fontosnak gondol magáról. 
+
 A weboldal alján található lábléc rész minden egyes aloldalon hozzáférhető. Itt is megtalálhatóak a legfontosabb információk linkek formájában. Ezek: Történetünk, Megtalálhatóság, Árak, Felvonók, Sípálya, illetve kapcsolati információk. 
 Munkamegosztás
+
 Mester Ildikó volt felelős a weblap átalakításához szükséges média – főleg képanyag – begyűjtéséért illetve a webfelület főoldalának szerkesztéséért. 
 Szegedi Csaba segítségével választottuk ki a legmegfelelőbb sablont az alapötlethez. A weboldal létrehozásában és szerkesztésében kulcsszereplő volt. A főoldal háttéranimációját, a Blog szekciót és azon szekciókat ahol a Wordpress nem kívánt együttműködni a sablonnal ő oldotta meg. 
 Szederkényi Péter volt az ötletgazda. A weboldalon a főoldal, valamint a lábléc szerkesztéséért felelős.
