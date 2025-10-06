@@ -5,6 +5,7 @@ Csapatunk neve “Masters” és a következő tagokból áll:
 - Mester Ildikó
 - Szegedi Csaba
 - Szederkényi Péter
+---
 
 ## Alapkoncepció
 Az alapvetés az volt, hogy a megkötöttségeket figyelembe véve egy sportra fókuszáljunk. Választásunk a síelésre esett. 
