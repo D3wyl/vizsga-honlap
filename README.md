@@ -2,9 +2,9 @@
 Ebben a dokumentumban szeretnénk bemutatni csapatunkat valamint welboldalunkat és annak készítési módját. 
 Csapatunk neve “Masters” és a következő tagokból áll: 
 
-- Mester Ildikó
-- Szegedi Csaba
-- Szederkényi Péter
+- Mester Ildikó: szerkesztés és képanyag beszerzése
+- Szegedi Csaba: oldal létrehozása, pluginek kezelése, oldal szerkesztése
+- Szederkényi Péter: ötletgazda, oldal szerkesztése
 ---
 
 ## Alapkoncepció
