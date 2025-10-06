@@ -24,10 +24,18 @@ Ezek a bővítmények:
 
 ---
 ## Weboldal Felépítés
-### Kedő oldal
-Az korábban említett funkcionalitás-könnyű navigáció jegyében került kialakításra a weboldal. A legfontosabb cél az volt, hogy egy olyan felületet biztosítsunk mely gyors, könnyen átlátható és reszponszív. Ennek megfelelően már a főoldalon bemutatásra kerül a sportcentrum rövid története, az edzők és az óráik.
+### Fejlécében 
+a következő aloldalakhoz vezető linkek kaptak helyet: 
+- **Kezdőoldal**
+- **Blog**
+- **-Névjegy**
+- **Kapcsolat**
+- **Információk**
+- **Felhasználói beállítások** 
 
-A weboldal fejlécében a következő aloldalakhoz vezető linkek kaptak helyet: Főoldal, Blog, Névjegy, Kapcsolat, Információk, Fiók, Felhasználói beállítások, Kilépés. 
+### Kedőoldal
+A korábban említett funkcionalitás-könnyű navigáció jegyében került kialakításra a weboldal. A legfontosabb cél az volt, hogy egy olyan felületet biztosítsunk mely gyors, könnyen átlátható és reszponszív. Ennek megfelelően már a főoldalon bemutatásra kerül a sportcentrum rövid története, az edzők és az óráik.
+
 A Kapcsolatfelvétel oldalon lehetség akár nem regisztrált tagoknak is üzenetet küldeni számunkra. Itt kapott helyet a térkép is mely biztosítja, hogy az érdeklődők megtalálják a sícentrumot. A biztosabb elérhetőség elősegítésenként itt is megtalálhatóak elérhetőségeink: cím, telefon és e-mail. 
 Az Információk oldalon pontosan lehet tájékozódni az adott sízezonokról és árakról. Ezenkívül ez az oldal tartalmaz információkat és térképeket a pályákról. Továbbiakban felvilágosítást nyújt az egyes pályák adatairól (szintkülönbség, nehézség, hossz, stb.) 
 A Felhasználói beállítások alatt módosítható az avatar kép. Ezen az oldalon van lehetőség áttekinteni a kommenteket és postokat is. A felhasználó kialakíthat egy profil leírást – amolyan bemutatkozást – ahol a közösségnek elmondja, amit fontosnak gondol magáról. 
