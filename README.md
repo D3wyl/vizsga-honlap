@@ -1,5 +1,4 @@
 # Joutabankut – Projektbemutató <br>
-
 Ebben a dokumentumban szeretnénk bemutatni csapatunkat valamint welboldalunkat és annak készítési módját. 
 Csapatunk neve “Masters” és a következő tagokból áll: 
 
@@ -8,7 +7,6 @@ Csapatunk neve “Masters” és a következő tagokból áll:
 - Szederkényi Péter
 
 ## Alapkoncepció
-
 Az alapvetés az volt, hogy a megkötöttségeket figyelembe véve egy sportra fókuszáljunk. Választásunk a síelésre esett. 
 Miskolcon és Borsod Megyében közismertek a bánkúti síelő sportcentrumok, célunk egy ilyen weboldal megalkotása volt.
 A célközönség természetesen nem csak a síelők voltak, hanem a síelést megtanulni vágyók és mindenki aki részt kíván venni ebben a kiváló sportban.
