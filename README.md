@@ -6,7 +6,10 @@ Csapatunk neve **“Masters”** és a következő tagokból áll:
 - **Szegedi Csaba**
 - **Szederkényi Péter**
 ---
+## Weboldal cím
+[Jó út a Bánkút](https://joutabankut.byethost15.com/)
 
+---
 ## Alapkoncepció
 Az alapvetés az volt, hogy a megkötöttségeket figyelembe véve egy sportra fókuszáljunk. Választásunk a síelésre esett. 
 Miskolcon és Borsod Megyében közismertek a bánkúti síelő sportcentrumok, célunk egy ilyen weboldal megalkotása volt.
@@ -58,11 +61,11 @@ A weboldal alján található lábléc rész minden egyes aloldalon hozzáférhe
 ## Munkamegosztás
 - **Mester Ildikó** volt felelős a weblap átalakításához szükséges média – főleg képanyag – begyűjtéséért illetve a webfelület főoldalának szerkesztéséért. 
 - **Szegedi Csaba** segítségével választottuk ki a legmegfelelőbb sablont az alapötlethez. A weboldal létrehozásában és szerkesztésében kulcsszereplő volt. A főoldal háttéranimációját, a Blog szekciót és azon szekciókat ahol a Wordpress nem kívánt együttműködni a sablonnal ő oldotta meg. 
-- **Szederkényi Péter **volt az ötletgazda. A weboldalon a főoldal, valamint a lábléc szerkesztéséért felelős.
+- **Szederkényi Péter** volt az ötletgazda. A weboldalon a főoldal, valamint a lábléc szerkesztéséért felelős.
 
 ---
 ## Felhasznált források: 
-https://tekeregj.hu/utvonal/bankut/
-https://aktivkalandor.hu/wp-content/uploads/2024/04/Bankut-2_bankut.hu_.jpg
-https://fineartamerica.com/featured/a-happy-skier-smiling-raises-his-arms-patrick-orton.html
-https://www.snowmagazine.com/features/focus-on/skiing-happy-mental-health
+- https://tekeregj.hu/utvonal/bankut/
+- https://aktivkalandor.hu/wp-content/uploads/2024/04/Bankut-2_bankut.hu_.jpg
+- https://fineartamerica.com/featured/a-happy-skier-smiling-raises-his-arms-patrick-orton.html
+- https://www.snowmagazine.com/features/focus-on/skiing-happy-mental-health
