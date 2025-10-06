@@ -22,10 +22,11 @@ Ezek a bővítmények:
 - **PopularFX Templates:** Sablont biztosította
 - **Ultimate Member:** Fiók és regisztráció
 
-A Pagelayer jelentősen megkönnyíti a Wordpress-ben a szerkesztési folyamatot, melynek nagy hasznát vettük, ugyanis a Wordpress elég hektikus tud lenni sablonokkal kapcsolatban. A PopularFX Template egyben segíti a Pagelayer munkáját, valamint a blogkezelésben kiváló. Mivel szükséges a felhasználói regisztráció, ezért az Ultimate Member bővítmény is alkalmazásra került, mely pusztán egy név és e-mail megadásával lehetőséget ad regisztrációra és későbbi bejelentkezésre.
-Szegedi Csaba a “motorja” a programnak, neki van a legynagyobb tapasztalata Wordpress és HTML vagy CSS terén. Mester Ildikó volt a felelős a media begyűjtéséért és Szederkényi Péter részt vett a weboldal szerkesztésében, valamint médiafeltöltésért.
-Felépítés
+---
+## Weboldal Felépítés
+### Kedő oldal
 Az korábban említett funkcionalitás-könnyű navigáció jegyében került kialakításra a weboldal. A legfontosabb cél az volt, hogy egy olyan felületet biztosítsunk mely gyors, könnyen átlátható és reszponszív. Ennek megfelelően már a főoldalon bemutatásra kerül a sportcentrum rövid története, az edzők és az óráik.
+
 A weboldal fejlécében a következő aloldalakhoz vezető linkek kaptak helyet: Főoldal, Blog, Névjegy, Kapcsolat, Információk, Fiók, Felhasználói beállítások, Kilépés. 
 A Kapcsolatfelvétel oldalon lehetség akár nem regisztrált tagoknak is üzenetet küldeni számunkra. Itt kapott helyet a térkép is mely biztosítja, hogy az érdeklődők megtalálják a sícentrumot. A biztosabb elérhetőség elősegítésenként itt is megtalálhatóak elérhetőségeink: cím, telefon és e-mail. 
 Az Információk oldalon pontosan lehet tájékozódni az adott sízezonokról és árakról. Ezenkívül ez az oldal tartalmaz információkat és térképeket a pályákról. Továbbiakban felvilágosítást nyújt az egyes pályák adatairól (szintkülönbség, nehézség, hossz, stb.) 
