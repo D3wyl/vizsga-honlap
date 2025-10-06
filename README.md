@@ -1,16 +1,15 @@
-## Joutabankut – Projektbemutató <br>
+# Joutabankut – Projektbemutató <br>
 
 Ebben a dokumentumban szeretnénk bemutatni csapatunkat valamint welboldalunkat és annak készítési módját. 
 Csapatunk neve “Masters” és a következő tagokból áll: 
 
-Mester Ildikó
-Szegedi Csaba
-Szederkényi Péter
+- Mester Ildikó
+- Szegedi Csaba
+- Szederkényi Péter
 
-# Alapkoncepció
-A vizsgabizottság által kiadott döntés alapján sportklub weboldalt szerkesztettünk az elvárásoknak megfelelően. 
+## Alapkoncepció
 Az alapvetés az volt, hogy az időbeli és egyéb (tanulmányi) megkötöttségeket figyelembe véve egy sportra fókuszáljunk. Választásunk a síelésre esett. Miskolcon és Borsod Megyében közismertek a bánkúti síelő sportcentrumok, célunk egy ilyen weboldal megalkotása volt.
-Bánkút könnyen elérhető miskolciak számára, hiszen egy része Miskoc külterüléhez tartozik, más része Nagyvisnyó területe.
+Bánkút könnyen elérhető miskolciak számára, hiszen egy része Miskoc külterületéhez tartozik, más része Nagyvisnyó területe.
 A célközönség természetesen nem csak a síelők voltak, hanem a síelést megtanulni vágyók és mindenki aki részt kíván venni ebben a kiváló sportban. A síelés nem csak kardió edzés hanem egyben kikapcsolódás és elvonulás is a városi élettől.
 A weboldal célja így a kedvcsinálás és egy olyan sportág promotálása, mely sajnos az enyhe teleknek köszönhetően egyre inkább veszít népszerűségéből.
 Tervezés
