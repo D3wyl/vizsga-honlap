@@ -8,11 +8,14 @@ Csapatunk neve “Masters” és a következő tagokból áll:
 - Szederkényi Péter
 
 ## Alapkoncepció
+
 Az alapvetés az volt, hogy a megkötöttségeket figyelembe véve egy sportra fókuszáljunk. Választásunk a síelésre esett. 
 Miskolcon és Borsod Megyében közismertek a bánkúti síelő sportcentrumok, célunk egy ilyen weboldal megalkotása volt.
 A célközönség természetesen nem csak a síelők voltak, hanem a síelést megtanulni vágyók és mindenki aki részt kíván venni ebben a kiváló sportban.
 A weboldal célja így a kedvcsinálás és egy olyan sportág promotálása, mely sajnos az enyhe teleknek köszönhetően egyre inkább veszít népszerűségéből.
+
 ---
+
 ## Tervezés
 CMS rendszerként a Wordpresst alkalmaztuk. Rövidesen megállapodtunk egy sablonnál, mely kielégíti az előírt feltéteket, ennek a neve: Skiing. Wordpress szerkesztővel kiegészítettük a menüket, illetve új oldalt is hoztunk létre, hogy az elvárásoknak megfelelő tartalmat tudjon nyújtani az oldal. 
 A sablon alapvetően tartalmazott majdnem minden olyan elemet, melyre szükség volt a fejlesztés során ezért pusztán néhány bővítményre volt szükség. 
