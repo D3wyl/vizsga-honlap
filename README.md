@@ -6,7 +6,7 @@ Csapatunk neve **“Masters”** és a következő tagokból áll:
 - **Szegedi Csaba**
 - **Szederkényi Péter**
 ---
-## Weboldal cím
+### Weboldal cím
 [Jó út a Bánkút](https://joutabankut.byethost15.com/)
 
 ---
