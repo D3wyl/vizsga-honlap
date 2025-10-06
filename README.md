@@ -2,9 +2,9 @@
 Ebben a dokumentumban szeretnénk bemutatni csapatunkat valamint welboldalunkat és annak készítési módját. 
 Csapatunk neve “Masters” és a következő tagokból áll: 
 
-- Mester Ildikó: szerkesztés és képanyag beszerzése
-- Szegedi Csaba: oldal létrehozása, pluginek kezelése, oldal szerkesztése
-- Szederkényi Péter: ötletgazda, oldal szerkesztése
+- **Mester Ildikó:** szerkesztés és képanyag beszerzése
+- **Szegedi Csaba:** oldal létrehozása, pluginek kezelése, oldal szerkesztése
+- **Szederkényi Péter:** ötletgazda, oldal szerkesztése
 ---
 
 ## Alapkoncepció
@@ -18,9 +18,9 @@ A weboldal célja így a kedvcsinálás és egy olyan sportág promotálása, me
 CMS rendszerként a Wordpresst alkalmaztuk. Rövidesen megállapodtunk egy sablonnál, ennek a neve: Skiing.
 A sablon alapvetően tartalmazott majdnem minden olyan elemet, melyre szükség volt a fejlesztés során ezért pusztán néhány bővítményre volt szükség. 
 Ezek a bővítmények: 
-- Pagelayer 
-- PopularFX Templates 
-- Ultimate Member
+- **Pagelayer:** Oldal szerkesztő
+- **PopularFX Templates:** Sablont biztosította
+- **Ultimate Member:** Fiók és regisztráció
 
 A Pagelayer jelentősen megkönnyíti a Wordpress-ben a szerkesztési folyamatot, melynek nagy hasznát vettük, ugyanis a Wordpress elég hektikus tud lenni sablonokkal kapcsolatban. A PopularFX Template egyben segíti a Pagelayer munkáját, valamint a blogkezelésben kiváló. Mivel szükséges a felhasználói regisztráció, ezért az Ultimate Member bővítmény is alkalmazásra került, mely pusztán egy név és e-mail megadásával lehetőséget ad regisztrációra és későbbi bejelentkezésre.
 Szegedi Csaba a “motorja” a programnak, neki van a legynagyobb tapasztalata Wordpress és HTML vagy CSS terén. Mester Ildikó volt a felelős a media begyűjtéséért és Szederkényi Péter részt vett a weboldal szerkesztésében, valamint médiafeltöltésért.
