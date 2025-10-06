@@ -1,10 +1,10 @@
 # Joutabankut – Projektbemutató
 Ebben a dokumentumban szeretnénk bemutatni csapatunkat valamint welboldalunkat és annak készítési módját. 
-Csapatunk neve “Masters” és a következő tagokból áll: 
+Csapatunk neve **“Masters”** és a következő tagokból áll: 
 
-- **Mester Ildikó:** szerkesztés és képanyag beszerzése
-- **Szegedi Csaba:** oldal létrehozása, pluginek kezelése, oldal szerkesztése
-- **Szederkényi Péter:** ötletgazda, oldal szerkesztése
+- **Mester Ildikó**
+- **Szegedi Csaba**
+- **Szederkényi Péter**
 ---
 
 ## Alapkoncepció
@@ -31,7 +31,7 @@ A következő aloldalak kaptak helyet:
 - **Információk**
 - **Névjegy**
 - **Kapcsolatfelvétel**
-- **Felhasználói beállítások** 
+- **Fiók**
 
 ### Kedőoldal
 A korábban említett funkcionalitás-könnyű navigáció jegyében került kialakításra a weboldal. A legfontosabb cél az volt, hogy egy olyan felületet biztosítsunk mely gyors, könnyen átlátható és reszponszív. Ennek megfelelően már a főoldalon bemutatásra kerül a sportcentrum rövid története, az edzők és az óráik.
@@ -46,21 +46,22 @@ Az Információk oldalon pontosan lehet tájékozódni az adott sízezonokról �
 A névjegyben egy rövid ismertető található a sport klubról és egy média elérés
 
 ### Kapcsolatfelvétel
-A Kapcsolatfelvétel oldalon lehetség akár nem regisztrált tagoknak is üzenetet küldeni számunkra. Itt kapott helyet a térkép is mely biztosítja, hogy az érdeklődők megtalálják a sícentrumot. A biztosabb elérhetőség elősegítéseként itt is megtalálhatóak elérhetőségeink:
-- cím 
-- telefon
-- e-mail 
+A Kapcsolatfelvétel oldalon lehetség akár nem regisztrált tagoknak is üzenetet küldeni számunkra. Itt kapott helyet a térkép is mely biztosítja, hogy az érdeklődők megtalálják a sícentrumot. A biztosabb elérhetőség elősegítéseként itt is megtalálhatóak elérhetőségeink: _cím, telefon, e-mail_
 
-### Felhasználói beállítások
-A Felhasználói beállítások alatt módosítható az avatar kép. Ezen az oldalon van lehetőség áttekinteni a kommenteket és postokat is. A felhasználó kialakíthat egy profil leírást – amolyan bemutatkozást – ahol a közösségnek elmondja, amit fontosnak gondol magáról. 
+### Fiók
+A felhasználó it szerkesztheti adatait mint: _Név, E-mail, jelszó vagy törölheti fiókját._
 
+### Lábléc
 A weboldal alján található lábléc rész minden egyes aloldalon hozzáférhető. Itt is megtalálhatóak a legfontosabb információk linkek formájában. Ezek: Történetünk, Megtalálhatóság, Árak, Felvonók, Sípálya, illetve kapcsolati információk. 
-Munkamegosztás
 
-Mester Ildikó volt felelős a weblap átalakításához szükséges média – főleg képanyag – begyűjtéséért illetve a webfelület főoldalának szerkesztéséért. 
-Szegedi Csaba segítségével választottuk ki a legmegfelelőbb sablont az alapötlethez. A weboldal létrehozásában és szerkesztésében kulcsszereplő volt. A főoldal háttéranimációját, a Blog szekciót és azon szekciókat ahol a Wordpress nem kívánt együttműködni a sablonnal ő oldotta meg. 
-Szederkényi Péter volt az ötletgazda. A weboldalon a főoldal, valamint a lábléc szerkesztéséért felelős.
-Felhasznált források: 
+---
+## Munkamegosztás
+**- Mester Ildikó** volt felelős a weblap átalakításához szükséges média – főleg képanyag – begyűjtéséért illetve a webfelület főoldalának szerkesztéséért. 
+**- Szegedi Csaba** segítségével választottuk ki a legmegfelelőbb sablont az alapötlethez. A weboldal létrehozásában és szerkesztésében kulcsszereplő volt. A főoldal háttéranimációját, a Blog szekciót és azon szekciókat ahol a Wordpress nem kívánt együttműködni a sablonnal ő oldotta meg. 
+**- Szederkényi Péter** volt az ötletgazda. A weboldalon a főoldal, valamint a lábléc szerkesztéséért felelős.
+
+---
+## Felhasznált források: 
 https://tekeregj.hu/utvonal/bankut/
 https://aktivkalandor.hu/wp-content/uploads/2024/04/Bankut-2_bankut.hu_.jpg
 https://fineartamerica.com/featured/a-happy-skier-smiling-raises-his-arms-patrick-orton.html
